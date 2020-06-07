@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haciendo una Regresion Lineal con Eigen"
+title: "Usando Eigen para operar matrices en C++, con Simulación de datos "
 author: "Cristian Guevara"
 ---
 
